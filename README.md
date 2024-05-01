@@ -58,12 +58,25 @@ completemerge2.corr()
 
 ### Results
 For both child care facilities and kindergarten schools in CA, there was a steady increase in vaccination rates from 2011-2020 overall.
+![kcplot](https://github.com/JJ9218/Pertussis-in-CA-/assets/163039134/ac3bdf94-2fa2-4e4d-8451-5eadac0f5ee2)
+
+However, the case counts did not reflect any direct correlation to vaccination rates over the years.  
+![CaseCounts](https://github.com/JJ9218/Pertussis-in-CA-/assets/163039134/40fc8fe2-4363-4576-9152-19a1eb380319)
+
+TO statistically assess this, a linear regression was condcuted to consider any potential correlation between vaccination rates and case counts of pertussis from 2011-2020. This table indicates a strong correlation of an increase of vaccination rates over the years, yet rejects the hypothesis of case counts decreasing as vaccination rates increased over the years. 
+
+![Correlation](https://github.com/JJ9218/Pertussis-in-CA-/assets/163039134/ec700cf2-0e92-437c-a9ca-bd9456677b7f)
+
+Results indicate that there was no significant correlation between DTaP vaccination rates and pertussis case counts over the years. The hypothesized outcome would have reflected a negative coreelation, where DTaP vaccination rates would be set an increasing rate while pertussis case counts decreased over the years. 
+
+These reults highlight that there is further research to be conducted as to consistent incidence of pertussis cases regardless of increasing vaccination rates. 
 
 
 ### Recommendations
 Some considerations: 
-Given the results, were there other ways that could have prevented pertussis cases? mechanisms for reducing airborne pathogens in schools (air filters)
+Given the results, were there other ways that could have prevented pertussis cases? mechanisms for reducing airborne pathogens in schools (air filters), ventilation. Which schools are being disproportionately impacted from pertussis cases, and should there be an assessment for ventilation/filtration systems within the schools? Importance of ventilation and filtration for airborne pathogens. study with boston schools.
 Schools should report cases as well.
+Questions to CDPH guidance
 
 
 ### Limitations
