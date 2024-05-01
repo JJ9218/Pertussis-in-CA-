@@ -7,7 +7,7 @@
 - [Data Sources](#data-sources)
 - [Tools](#tools)
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
-- [Key Aims](#key-aims)
+- [Key Aim](#key-aim)
 - [Data Analysis](#data-analysis)
 - [Results](#results)
 - [Recommendations](#recommendations)
@@ -15,7 +15,7 @@
 - [References](#references)
 
 ### Background
-Pertussis, also reffered to as whooping cough, is a highly contagious airborne disease transmitted from person to person. The bacteria that causes whooping cough, Bordetella pertussis, disrupts the upper respiratory system by releasing toxins that cause airways to swell and damage to the cilia. Symptoms typically develop within the 5-10 days of infection, manifesting in its early stages as a mild cough, low-grade fever, runny or stuffed nose, and apnea. In its later stages (1-2 weeks after infection), symptoms may develop into uncontrolled coughing fits (paroxysms). Coughing fits can last up to 10 weeks, but typically occurs for 1-6 weeks. Younger children are disproportionately impacted by severe pertussis. The Tdap vaccine is recommended for pregnant women in their third trimester, and infants can be vaccinated with the DTaP series as early as 6 weeks. 
+Pertussis, also reffered to as whooping cough, is a highly contagious airborne disease transmitted from person to person. The bacteria that causes whooping cough, Bordetella pertussis, disrupts the upper respiratory system by releasing toxins that cause airways to swell and damage to the cilia. Symptoms typically develop within 5-10 days of infection, manifesting in its early stages as a mild cough, low-grade fever, runny or stuffed nose, and apnea. In its later stages (1-2 weeks after infection), symptoms may develop into uncontrolled coughing fits (paroxysms). Coughing fits can last up to 10 weeks, but typically occurs between 1-6 weeks. Younger children are disproportionately impacted by severe pertussis, and it is recommended for pregnant women in their third trimester to receive the Tdap vaccine booster, and for infants to receive DTaP series as early as 6 weeks. 
 
 In California, over 11,000 cases were reported in 2014, resulting in two infant deaths and hundreds of hospitilizations. This highlighted the importance of increasing vaccination rates for child care facilities and primary schools, as schools with low vaccination rates have increased risk of pertussis outbreaks. Pertussis is a vaccine-preventable disease and with effective measures taken for schools and child care facilities, children are at a lower risk of being exposed and infected with the bacterial disease. 
 
@@ -33,15 +33,31 @@ The data is sourced from California's Department of Public Health. By law, stude
   - Python - Data Cleaning, Data Analysis, and Visualizations
 
 ### Data Cleaning and Preparation
+The following was performed for data cleaning and preparation:
 
+1. Data inspection
+2. Removing unnecessary data
+3. Handling missing data
+4. Data cleaning and formatting
+5. Data merging
 
-### Key Aims
-1. Did vaccination rates in child care facilties and kindergaten schools decrease pertussis case counts?
-2. 
+### Key Aim
+This project aimed to assess if vaccination rates in child care facilties and kindergaten schools had an impact on decreasing pertussis case counts. Conducting this through a statistical analysis can help us make informed decisions such as assessing the effectiveness of preventative measures for infectious diseases. 
 
 ### Data Analysis
+The initial step within this data analysis was configuring the mean of case counts and vaccination rates for child care facilities and kindergarten schools in CA every year from 2011-2020. 
+```Python
+kcplot= kcpltmerged
+kcplot = kcpltmerged.groupby('Year').mean('DTP_percent')
+kcplot
+```
+Following this, a linear regression was run to determine a potential correlation between vaccination rates and case counts over the years. 
+```Python
+completemerge2.corr()
+```
 
 ### Results
+
 
 ### Recommendations
 Some considerations: 
