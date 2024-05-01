@@ -57,6 +57,7 @@ completemerge2.corr()
 ```
 
 ### Results
+For both child care facilities and kindergarten schools in CA, there was a steady increase in vaccination rates from 2011-2020 overall.
 
 
 ### Recommendations
