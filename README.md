@@ -10,8 +10,8 @@
 - [Key Aim](#key-aim)
 - [Data Analysis](#data-analysis)
 - [Results](#results)
-- [Recommendations](#recommendations)
 - [Limitations](#limitations)
+- [Recommendations](#recommendations)
 - [References](#references)
 
 ### Background
@@ -63,7 +63,7 @@ For both child care facilities and kindergarten schools in CA, there was a stead
 However, the case counts did not reflect any direct correlation to vaccination rates over the years.  
 ![CaseCounts](https://github.com/JJ9218/Pertussis-in-CA-/assets/163039134/40fc8fe2-4363-4576-9152-19a1eb380319)
 
-TO statistically assess this, a linear regression was condcuted to consider any potential correlation between vaccination rates and case counts of pertussis from 2011-2020. This table indicates a strong correlation of an increase of vaccination rates over the years, yet rejects the hypothesis of case counts decreasing as vaccination rates increased over the years. 
+TO statistically assess this, a linear regression was conducted to consider any potential correlation between vaccination rates and case counts of pertussis from 2011-2020. This table indicates a strong correlation of an increase of vaccination rates over the years, yet rejects the hypothesis of case counts decreasing as vaccination rates increased over the years. 
 
 ![Correlation](https://github.com/JJ9218/Pertussis-in-CA-/assets/163039134/ec700cf2-0e92-437c-a9ca-bd9456677b7f)
 
@@ -71,18 +71,16 @@ Results indicate that there was no significant correlation between DTaP vaccinat
 
 These reults highlight that there is further research to be conducted as to consistent incidence of pertussis cases regardless of increasing vaccination rates. 
 
+### Limitations
+When it comes to case rates, we have do not have data specifying age demographics. We know that pertussis disporotionally impacts children, especially in childcare and kindergarten. While we have vaccination rates specifically for this age group, this analysis would be more accurate with the inclusion of age groups or grade level to fully confirm the association between vaccine rates and case counts. California's Department of Public Health indicate that in 2014, over 11,000 cases were reported including 2 infant deaths. This outbreak also led to hundreds of hospitilzations. When vaccination rates were low in schools, there was an increased risk for infants and children becoming infected wih pertussis. While we know young children are disporportionately impacted with pertussis cases, our analysis would be strengthened if age demographics or grade level was incldued in the pertussis case count dataset.  
+
+Another limitation is the amount of schools who did not report vaccination rates. For kindegarten schools in CA, 4.2% failed to report vaccination rates, and 8.3% for childcare facilities. While this number is relatively low in comparison to the schools and facilities that have reported, having this information for the analysis would have strengthened the hypothesis of vaccination rates having an impact on cases. 
 
 ### Recommendations
 Some considerations: 
 Given the results, were there other ways that could have prevented pertussis cases? mechanisms for reducing airborne pathogens in schools (air filters), ventilation. Which schools are being disproportionately impacted from pertussis cases, and should there be an assessment for ventilation/filtration systems within the schools? Importance of ventilation and filtration for airborne pathogens. study with boston schools.
 Schools should report cases as well.
 Questions to CDPH guidance
-
-
-### Limitations
-When it comes to case rates, we have do not have data specifying age demographics. We know that pertussis disporotionally impacts children, especially in childcare and kindergarten. While we have vaccination rates specifically for this age group, this analysis would be more accurate with the inclusion of age groups or grade level to fully confirm the association between vaccine rates and case counts. California's Department of Public Health indicate that in 2014, over 11,000 cases were reported including 2 infant deaths. This outbreak also led to hundreds of hospitilzations. When vaccination rates were low in schools, there was an increased risk for infants and children becoming infected wih pertussis. While we know young children are disporportionately impacted with pertussis cases, our analysis would be strengthened if age demographics or grade level was incldued in the pertussis case count dataset.  
-
-Another limitation is the amount of schools who did not report vaccination rates. For kindegarten schools in CA, 4.2% failed to report vaccination rates, and 8.3% for childcare facilities. While this number is relatively low in comparison to the schools and facilities that have reported, having this information for the analysis would have strengthened the hypothesis of vaccination rates having an impact on cases. 
 
 ### References
 1. CDC. “About Whooping Cough (Pertussis).” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 4 Aug. 2022, www.cdc.gov/pertussis/about/index.html.
