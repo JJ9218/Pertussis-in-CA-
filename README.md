@@ -79,13 +79,15 @@ California's Department of Public Health reported an increased risk for infants 
 Another limitation is the amount of schools who did not report vaccination rates. For kindegarten schools in CA, 4.2% failed to report vaccination rates, and 8.3% for childcare facilities. While this number is relatively low in comparison to the schools and facilities that have reported, having this information for the analysis would have strengthened the hypothesis of vaccination rates having an impact on cases. 
 
 ### Recommendations
-In addition to the inclusion of variables limited in the data sources, CDPH should consider other prevention mechanisms that can decrease airborne pathogens in chidcare facilities and schools. Assessing and implementing ventilation and air filtration systems can be crucial in reducing the spread of airborne diseases including pertussis. Several studies have found the significance of high-grade recirculating heating, ventilating, and air-conditioning (HVAC) particle filters reducing infectious airborne pathogens in indoor spaces. 
+In addition to the inclusion of variables limited in the data sources, CDPH should consider other prevention mechanisms that can decrease airborne pathogens in chidcare facilities and schools. Assessing and implementing ventilation and air filtration systems can be crucial in reducing the spread of airborne diseases including pertussis. Several studies have found the significance of high-grade recirculating heating, ventilating, and air-conditioning (HVAC) particle filters reducing infectious airborne pathogens in indoor spaces. CDPH guidance should expand to address more mechanism to reduce airbone diseases, such as applying the Swiss Cheese framework to their guidance. 
 
 Since the CDPH has access to which schools have experienced pertussis outbreaks, under Title 17, California Code of Regulations §2508, it would be crucial to report age and socioeconomic demographics to consider communities disproportionately impacted. 
 
-swiss cheese, mechanisms for reducing airborne pathogens in schools (air filters), ventilation. Which schools are being disproportionately impacted from pertussis cases, and should there be an assessment for ventilation/filtration systems within the schools? Importance of ventilation and filtration for airborne pathogens. study with boston schools.
-Schools should report cases as well.
-Questions to CDPH guidance
+
+
+
+Which schools are being disproportionately impacted from pertussis cases, and should there be an assessment for ventilation/filtration systems within the schools?
+study with boston schools.
 
 ### References
 1. CDC. “About Whooping Cough (Pertussis).” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 4 Aug. 2022, www.cdc.gov/pertussis/about/index.html.
