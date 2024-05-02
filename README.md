@@ -69,7 +69,7 @@ To statistically assess this, a linear regression was conducted to consider any 
 ![Screenshot (10)](https://github.com/JJ9218/Pertussis-in-CA-/assets/163039134/8c853db9-a900-4ec4-bce9-1410ad4ce580)
 
 
-The hypothesized outcome would have reflected a negative correlation, where DTaP vaccination rates would be set an increasing rate while pertussis case counts decreased over the years. Results indicate that the correlation between DTaP vaccination rates and pertussis case counts from 2011-2020 were not indicate the intended negative correlation. 
+The hypothesized outcome would have reflected a negative correlation, where DTaP vaccination rates would be set an increasing rate while pertussis case counts decreased over the years. Results indicate that the correlation between DTaP vaccination rates and pertussis case counts from 2011-2020 did not indicate the intended negative correlation. 
 
 These reults highlight that there is further research needed to determine a consistent incidence of pertussis cases every 3-5 years regardless of increasing vaccination rates. 
 
