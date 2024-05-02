@@ -63,7 +63,7 @@ For child care facilities and kindergarten schools in CA, there was a steady inc
 However, the case counts did not reflect any direct correlation to vaccination rates over the years.  
 ![CaseCounts](https://github.com/JJ9218/Pertussis-in-CA-/assets/163039134/40fc8fe2-4363-4576-9152-19a1eb380319)
 
-TO statistically assess this, a linear regression was conducted to consider any potential correlation between vaccination rates and case counts of pertussis from 2011-2020. This table indicates a strong correlation of an increase of vaccination rates over the years, yet rejects the hypothesis of case counts decreasing as vaccination rates increased by the year. 
+To statistically assess this, a linear regression was conducted to consider any potential correlation between vaccination rates and case counts of pertussis from 2011-2020. This table indicates a strong correlation of an increase of vaccination rates over the years, yet rejects the hypothesis of case counts decreasing as vaccination rates increased by the year. 
 
 ![Correlation](https://github.com/JJ9218/Pertussis-in-CA-/assets/163039134/ec700cf2-0e92-437c-a9ca-bd9456677b7f)
 
@@ -72,13 +72,14 @@ Results indicate that there was no significant correlation between DTaP vaccinat
 These reults highlight that there is further research needed to determine a consistent incidence of pertussis cases every 3-5 years regardless of increasing vaccination rates. 
 
 ### Limitations
-There were several limitations within this dataset that may have impacted the outcome of this analysis. The vaccine-preventable disease dataset lacked age demographic data which could have given a more accurate determination of which peturssis cases came from child care facilities and schools. Although it is known that pertussis disporotionally impacts children, especially in childcare and kindergarten, age demographics within this dataset could have further strengthened an association between vaccine rates and case counts. California's Department of Public Health report an increased risk for infants and children becoming infected wih pertussis  vaccination rates were low in schools, there was an . While we know young children are disporportionately impacted with pertussis cases, our analysis would be strengthened if age demographics or grade level was incldued in the pertussis case count dataset.  
+California's Department of Public Health reported an increased risk for infants and children becoming infected wih pertussis when vaccination rates were low in schools. The results of this analysis does not support this claim, however, there were several limitations within this dataset that may have impacted this outcome. The vaccine-preventable disease dataset lacked age demographic data which could have given a more accurate determination of which peturssis cases came from child care facilities and schools. Although it is known that pertussis disporotionally impacts children, especially in childcare and kindergarten, age demographics within this dataset could have further strengthened an association between vaccine rates and case counts. Other demographic data missing is race and a variable identifying which counties are low, middle, or high socioeconomic status. It is crucial for the inclusion of these variables to identify potential populations that may be disproportionately impacted from pertussis outbreaks and to adjust approaches to prevention mechanisms. 
 
 Another limitation is the amount of schools who did not report vaccination rates. For kindegarten schools in CA, 4.2% failed to report vaccination rates, and 8.3% for childcare facilities. While this number is relatively low in comparison to the schools and facilities that have reported, having this information for the analysis would have strengthened the hypothesis of vaccination rates having an impact on cases. 
 
 ### Recommendations
-Some considerations: 
-Given the results, were there other ways that could have prevented pertussis cases? mechanisms for reducing airborne pathogens in schools (air filters), ventilation. Which schools are being disproportionately impacted from pertussis cases, and should there be an assessment for ventilation/filtration systems within the schools? Importance of ventilation and filtration for airborne pathogens. study with boston schools.
+In addition to the inclusion of variables limited in the data sources, CDPH should consider other mechanisms that can decrease airborne pathogens in chidcare facilities and schools. 
+
+swiss cheese, mechanisms for reducing airborne pathogens in schools (air filters), ventilation. Which schools are being disproportionately impacted from pertussis cases, and should there be an assessment for ventilation/filtration systems within the schools? Importance of ventilation and filtration for airborne pathogens. study with boston schools.
 Schools should report cases as well.
 Questions to CDPH guidance
 
