@@ -1,4 +1,4 @@
-# Pertussis in CA
+# Pertussis Outbreaks in California
 
 ## Table of Contents
 
