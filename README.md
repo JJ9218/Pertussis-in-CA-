@@ -1,4 +1,5 @@
 # Pertussis Outbreaks in California
+J.Jones, MPH
 
 ## Table of Contents
 
